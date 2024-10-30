@@ -12,5 +12,6 @@ public class Shishir {
 
     public static void main(String[] args) {
         System.out.println("Hi Shishir");
+        System.out.println("Best of Luck");
     }
 }
